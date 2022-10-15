@@ -1,6 +1,7 @@
 # JavaScript-MemoryCardGame
 Memory card game project
 
-WebLink : https://reeyhanyilmaz.github.io/JavaScript-MemoryCardGame/
+WebLink : https://projectpageCF20.github.io/Game
+
 
 ![screenshot](./assets/screenshot.png)
